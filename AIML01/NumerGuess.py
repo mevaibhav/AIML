@@ -1,7 +1,7 @@
 import random
 attempt=0
 guesscount =0
-print("****** Welcome to Number Guesser Game ******")
+print("****** Welcome to Number Guesser Game *******")
 chances =int(input("How many turns you want to play :"))
 print(" You selected to play "+ str(chances) + " times. Lets start")
 while(attempt<chances):
